@@ -1,7 +1,10 @@
 
 const Header = () => {
   return (
-    <div>I am the  Header</div>
+    <div>
+        <div>I am the Header</div>
+        <p>I am for Practice purpose</p>
+    </div>
   )
 }
 
